@@ -63,7 +63,7 @@
             "port" : 9090,
             "https" : false
         },
-        "title" : "RuoYi-App",
+        "title" : "报名系统",
         "router" : {
             "mode" : "hash",
             "base" : "./"

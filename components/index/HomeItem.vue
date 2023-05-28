@@ -21,13 +21,13 @@
 		},
 		computed: {
 			color() {
-				return this.item.sportSex === '女' ? '#f1dede' : '#c9c9f1'
+				return this.item.priority === '高' ? '#f1dede' : '#c9c9f1'
 			}
 		},
 		methods:{
 			goStart(){
 				wx.navigateTo({
-					url:'../../details/details-page'
+				    url:'../../details/about?sportName=' + encodeURIComponent(this.item.sportName)
 				})
 			}
 		}

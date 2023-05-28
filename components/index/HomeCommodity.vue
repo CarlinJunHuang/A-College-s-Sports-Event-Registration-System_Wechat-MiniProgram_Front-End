@@ -13,14 +13,16 @@
 			return{
 				homeData:[{
 					sportImg: '/static/images/events/SportMeeting.jpg',
-					sportSex:'女',
+					priority:'高',
 					sportTime:'2023年7月15日-8月26日',
-					sportName:'2023年秋季运动会'
+					sportName:'2023年秋季运动会',
+					info:'',
 				},{
 					sportImg: '/static/images/events/GirlBasketball.jpg',
-					sportSex:'男',
+					priority:'低',
 					sportTime:'2023年8月24日-11月16日',
-					sportName:'女子三人篮球赛'
+					sportName:'女子三人篮球赛',
+					info:'这个比赛还没有什么规则哦~',
 				}
 				]
 			}
