@@ -6,6 +6,11 @@ Developed in collaboration with the Sports Center at Southern University of Scie
 
 As I plan to organize and open-source the mini-program component, it is my hope that this will be beneficial to others in similar endeavors.
 
+I have uploaded some extended information in the file "INTRODUCTION", including a System Requirement Specification (SyRS) and two presentation video of different user's ends.
+
+Hope you like this project, and considering to give us a Star🌟~
+If there is any further question, pls contact me via email: huangj2021@mail.sustech.edu.cn.
+
 ## Reflection
 
 In finalizing the documentation for this project on GitHub, I reflect on its journey - a project conceived with passion but concluded prematurely. The departure of my teammates, who bravely changed their academic paths in pursuit of new horizons, marks both an end and a new beginning.
